@@ -1,0 +1,16 @@
+.navigation {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  border-bottom: 1px solid #5a75ba;
+  background-color: lightblue;
+  padding: 16px;  
+}
+
+.navigation a {
+  padding: 5px
+}
+
+.container {
+  padding: 20px;
+}
